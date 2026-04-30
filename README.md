@@ -1,3 +1,3 @@
-Disclaimers: 
-The figures (Figures 1 and 2) were produced by H. M. Tang, a team member of Group 42.
-This is the R source code for Figures 1 and 2 used in the group project titled "p-values and the Reproducibility Crisis". Both figures are titled "Reproducible Probability vs. Standard Error" in the main report.
+Disclaimers:
+The figures (Figures 1–3) were produced by H. M. Tang, a member of Group 42.
+This is the R source code for Figures 1–3 used in the group project titled "p‑values and the Reproducibility Crisis." Figures 1 and 2 are titled "Reproducible Probability vs. Standard Error" in the main report. Figure 3 is titled "Reproducible Probability vs. Replication Noise" in the main report.
